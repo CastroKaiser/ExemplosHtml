@@ -1,3 +1,9 @@
+body{
+    font-family: 'Times New Roman', Times, serif
+}
+#go{
+    
+}
 th{
     background-color: green;
     color: floralwhite;
@@ -13,4 +19,17 @@ th{
 td{
     background-color: rgb(0, 35, 230);
     color: white;
+}
+#div1{
+    background: blueviolet;
+    width: 500px;
+    padding: 20px;
+    color: white;
+    border-radius: 15px;
+    align-content: right;
+    display: grid;
+}
+.saila{
+    text-align: center;
+    margin: 250px
 }
