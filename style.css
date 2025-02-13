@@ -1,5 +1,6 @@
 body{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
 }
 #go{
     
@@ -21,7 +22,7 @@ td{
     color: white;
 }
 #div1{
-    background: blueviolet;
+    background: rgb(0, 0, 0);
     width: 500px;
     padding: 20px;
     color: white;
@@ -32,4 +33,39 @@ td{
 .saila{
     text-align: center;
     margin: 250px
+}
+#divMenu{
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-what-are-tags{
+    background-color: rgb(87, 119, 223);
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-other-page{
+    background-color: rgb(87,119,223);
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-tabuada{
+    background-color: rgb(87,119,223);
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-formulario{
+    background-color: rgb(87,119,223);
+    padding: 10px;
+    border-radius: 15px;
+}
+#div-livro{
+    background-color: rgb(87,119,223);
+    padding: 10px;
+    border-radius: 15px;
+}
+hr{
+    background-color: black;
 }
