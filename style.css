@@ -2,9 +2,6 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background-color: bisque;
 }
-#go{
-    
-}
 th{
     background-color: green;
     color: floralwhite;
@@ -60,6 +57,7 @@ td{
     background-color: rgb(87,119,223);
     padding: 10px;
     border-radius: 15px;
+    
 }
 #div-livro{
     background-color: rgb(87,119,223);
@@ -68,4 +66,10 @@ td{
 }
 hr{
     background-color: black;
+}
+#div2{
+    width: 280px;
+    height: 180px;
+    background-color: black;
+    border-radius: 15px;
 }
